@@ -16,4 +16,4 @@
 - ⚡ Fun fact: I dont isolate myself while coding 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
