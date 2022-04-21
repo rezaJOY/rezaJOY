@@ -12,7 +12,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Mobile Apps, Cyber Security, Ethical Hacking
 - 📫 How to reach me: ziaurreza_joy@yahoo.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I dont isolate myself while coding 
 
 
