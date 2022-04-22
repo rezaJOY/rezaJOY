@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Myzoo
+- 🔭 I’m currently working on AWS lightsail and Docker
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Cyber Security
 - 🤔 I’m looking for help with ...
