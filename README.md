@@ -6,10 +6,9 @@
 
 
 
-- 🔭 I’m currently working on AWS lightsail and Docker
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently as an App Developer at Myzoo.asia
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on Cyber Security
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Mobile Apps, Cyber Security, Ethical Hacking
 - 📫 How to reach me: ziaurreza_joy@yahoo.com
 - ⚡ Fun fact: I dont isolate myself while coding 
