@@ -20,10 +20,13 @@
 
 ### Hey there 👋
 ### I am Md Ziaur Reza Joy 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
 
+
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziaurrezajoy/)
-
+<br />
 ## I'm a Mobile App Developer & Pen-Tester
 
 - 🔭 Working as App Developer at  [MyZoo](https://myzoo.asia)
@@ -32,9 +35,7 @@
 | -------------------- |
 | <a href="https://stackoverflow.com/users/7004995/eyllanesc"><img src="https://stackoverflow.com/users/flair/7004995.png" width="208" height="58" alt="Utshaw's Stack Overflow stat" title="Utshaw's Stack Overflow stat"></a> |
 -->
-### Connect with me:
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][LinkedIn]
 
 <br />
 
@@ -63,4 +64,3 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
