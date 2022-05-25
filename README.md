@@ -20,8 +20,6 @@
 
 ### Hey there 👋
 ### I am Md Ziaur Reza Joy 
-
-
 ### Email me at reza.joy.work@gmail.com 
 
 
