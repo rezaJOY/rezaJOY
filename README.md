@@ -4,15 +4,7 @@
 
 
 **rezaJOY/rezaJOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-
-![xcode](https://user-images.githubusercontent.com/52202888/170240535-d028a7f8-cff2-49fd-9e9d-55b1daa83280.png)
-
-![flutter](https://user-images.githubusercontent.com/52202888/170240858-9a35014d-3f6b-4074-9ec0-546d4fdfe4d6.png)
-![java](https://user-images.githubusercontent.com/52202888/170240929-8671e09c-4216-432b-a720-569292607e92.png)
-![linux](https://user-images.githubusercontent.com/52202888/170240951-7c4d84d4-43bf-40fa-ac9e-50387c163990.png)
-![kali](https://user-images.githubusercontent.com/52202888/170241169-520644ba-86fa-4b22-81e0-5e15b68c93c6.png)
 
 
 - 🔭 I’m currently as App Developer at Myzoo.asia
@@ -22,9 +14,9 @@
 - 📫 How to reach me: ziaurreza_joy@yahoo.com
 - ⚡ Fun fact: I dont isolate myself while coding 
 
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
+-->
 
 ### Hey there 👋
 ### I am Md Ziaur Reza Joy 
