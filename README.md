@@ -20,7 +20,7 @@
 
 ### Hey there 👋
 ### I am Md Ziaur Reza Joy 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
 
 
 ### Connect with me:
