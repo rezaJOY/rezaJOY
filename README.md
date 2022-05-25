@@ -30,6 +30,7 @@
 ## I'm a Mobile App Developer & Pen-Tester
 
 - 🔭 Working as App Developer at  [MyZoo](https://myzoo.asia)
+- 🔭 Working as Cyber Security Analyst at  [Fiverr](https://fiverr.com)
 <!--
 | Stackoverflow Status |
 | -------------------- |
