@@ -46,7 +46,6 @@
 <img align="left" alt="Xcode" width="26px" src="https://user-images.githubusercontent.com/52202888/170240535-d028a7f8-cff2-49fd-9e9d-55b1daa83280.png"/>
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/52202888/170240858-9a35014d-3f6b-4074-9ec0-546d4fdfe4d6.png"/>
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/52202888/170240929-8671e09c-4216-432b-a720-569292607e92.png"/>
-<img align="left" alt="Kali Linux" width="26px" src="https://user-images.githubusercontent.com/52202888/170241169-520644ba-86fa-4b22-81e0-5e15b68c93c6.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
