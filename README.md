@@ -30,10 +30,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziaurrezajoy/)
 <br />
-## I'm a Mobile App Developer & Pen-Tester
+
 <!--
 - 🔭 Working as App Developer at  [MyZoo](https://myzoo.asia)
 - 🔭 Working as Cyber Security Analyst at  [Fiverr](https://fiverr.com)
+## I'm a Mobile App Developer & Pen-Tester
 -->
 <!--
 | Stackoverflow Status |
