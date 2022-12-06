@@ -29,7 +29,7 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziaurrezajoy/)
-<br />
+
 
 <!--
 - 🔭 Working as App Developer at  [MyZoo](https://myzoo.asia)
@@ -42,9 +42,7 @@
 | <a href="https://stackoverflow.com/users/7004995/eyllanesc"><img src="https://stackoverflow.com/users/flair/7004995.png" width="208" height="58" alt="Utshaw's Stack Overflow stat" title="Utshaw's Stack Overflow stat"></a> |
 -->
 
-
-<br />
-
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/52202888/170240210-269951d3-416f-4fc6-bddb-e2da23e68040.png"/>
@@ -63,9 +61,8 @@
 <img align="left" alt="Burp Suite" width="26px" src="https://assets.tryhackme.com/img/modules/burp-suite.png"/>
 <br />
 <br />
+-->
 
-<br />
-<br />
 
 
 
