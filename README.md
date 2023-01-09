@@ -15,12 +15,12 @@
 - ⚡ Fun fact: I dont isolate myself while coding 
 
 ![python-programming-language-icon](https://user-images.githubusercontent.com/52202888/191547564-2ca4c9e6-0c95-4a24-95e8-1002b9a54b4d.png)
-
+<a href="https://stardev.io/developers/rezaJOY"><img alt="Check out rezaJOY's profile on stardev.io" src="https://stardev.io/developers/rezaJOY/badge/languages/global.svg" /></a>
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
 -->
 
 
- 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
