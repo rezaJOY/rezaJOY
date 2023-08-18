@@ -24,7 +24,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
 
 
 ### Connect with me:
