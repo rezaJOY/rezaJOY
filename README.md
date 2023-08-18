@@ -19,12 +19,14 @@
 <a href="https://stardev.io/developers/rezaJOY"><img alt="Check out rezaJOY's profile on stardev.io" src="https://stardev.io/developers/rezaJOY/badge/languages/global.svg" /></a>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=tokyonight)
+
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
+
 -->
 
 
 
 
-//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaJOY&theme=blue)
 
 
 ### Connect with me:
