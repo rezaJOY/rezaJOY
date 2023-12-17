@@ -8,13 +8,6 @@
 
 
 
-- 🔭 I’m currently as App Developer at Myzoo.asia
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on Cyber Security
-- 💬 Ask me about Mobile Apps, Cyber Security, Ethical Hacking
-- 📫 How to reach me: ziaurreza_joy@yahoo.com
-- ⚡ Fun fact: I dont isolate myself while coding 
-
 ![python-programming-language-icon](https://user-images.githubusercontent.com/52202888/191547564-2ca4c9e6-0c95-4a24-95e8-1002b9a54b4d.png)
 <a href="https://stardev.io/developers/rezaJOY"><img alt="Check out rezaJOY's profile on stardev.io" src="https://stardev.io/developers/rezaJOY/badge/languages/global.svg" /></a>
  
